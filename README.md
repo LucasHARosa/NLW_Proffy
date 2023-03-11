@@ -1,3 +1,8 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/Proffy)
+![GitHub language count](https://img.shields.io/github/languages/count/LucasHARosa/Proffy)
+![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/Proffy)
+![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/Proffy)
+
 # Proffy
 
 Proffy foi um projeto desenvolvido durante a Next Level Week, entre os dias 03/08 e 14/08, promovido pela Rocketseat ministrada pelo professsor Mayk Brito.
